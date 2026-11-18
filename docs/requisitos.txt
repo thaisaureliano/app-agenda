@@ -1,1 +1,2 @@
 Requisitos da versao 1
+Requsitos da versao 1: agenda de contatos
